@@ -1,0 +1,6 @@
+git init
+git remote add [name] [url] //新建
+
+git add .
+git commit -m "xxx"
+git push -u origin main
